@@ -6,5 +6,6 @@
     <string name="radioPuppy">강아지</string>
     <string name="radioKitty">고양이</string>
     <string name="radioBunny">토끼</string>
-    <string name="btnDone">선택 완료</string>
+    <string name="btnFinish">종료</string>
+    <string name="btnInit">처음으로</string>
 </resources>
